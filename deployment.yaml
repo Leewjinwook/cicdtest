@@ -16,6 +16,6 @@ spec:
         - name: docker-cfg
       containers:
         - name: my-app
-          image: wlsdnrdl77/my-app:122
+          image: wlsdnrdl77/my-app:123
           ports:
             - containerPort: 8080
